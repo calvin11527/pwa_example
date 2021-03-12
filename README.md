@@ -4,7 +4,7 @@
 
 In the project directory, you can run:
 
-## `npm install`
+### `npm install`
 Runs the script to install node_modules first.
 
 ### `npm start`
